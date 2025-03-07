@@ -1,2 +1,2 @@
 # repo1
-Some test for AI
+This repo does not contain any code, it contains only issues.
